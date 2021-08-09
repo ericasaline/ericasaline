@@ -22,6 +22,5 @@
 ### Hobbies 🥰
 📖 Read  🎧 Music  ✍️ Draw
 
-<div>
-  ![Snake animation](https://github.com/ericasaline/ericasaline/blob/output/github-contribution-grid-snake.svg)  
-</div>
+![Snake animation](https://github.com/ericasaline/ericasaline/blob/output/github-contribution-grid-snake.svg)  
+
