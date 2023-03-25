@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá! Eu sou a Erica!
 
-<!--
-**ericasaline/ericasaline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Que a Força esteja com você!*
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://www.linkedin.com/in/erica-saline-1a8b92218" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:ericasaline@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedora Android
+<img align="center" alt="Logo-Android" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+<img align="center" alt="Logo-Kotlin" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas
+- 🧐 Estou sempre buscando adquirir novos conhecimentos
+- ✍️ Sou desenhista nas horas vagas
+- 📖 Amo ler
+- 🎧 Funciono à base de música
+- 🎮 Adoro jogar e assistir filmes, séries e animações
