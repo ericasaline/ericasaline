@@ -3,7 +3,7 @@
 *Que a Força esteja com você!*
 
 <p>
-  <a href="https://www.linkedin.com/in/erica-saline-1a8b92218" target="_blank">
+  <a href="https://www.linkedin.com/in/erica-saline" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="mailto:ericasaline@gmail.com">
